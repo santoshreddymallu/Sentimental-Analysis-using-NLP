@@ -76,4 +76,6 @@ The model's performance is evaluated using:
 
 ## 📸 Screenshots
 
+![image](https://github.com/santoshreddymallu/Sentimental-Analysis-using-NLP/blob/09d1c0d040c28c8525b45bf56119fa44f7199b95/Screenshot%202025-10-15%20163744.png)
+
 
