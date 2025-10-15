@@ -11,7 +11,7 @@ st.set_page_config(
 # Load model
 @st.cache_resource
 def load_model():
-    return joblib.load(r"C:\Users\santosh\OneDrive\Desktop\NLP\4)sentiment analysis\sentiment_analysis_project\models\best_sentiment_model.pkl")
+    return joblib.load("best_sentiment_model.pkl")
 
 model = load_model()
 
@@ -64,3 +64,4 @@ st.markdown(
 # cd "C:\Users\santosh\OneDrive\Desktop\NLP\4)sentiment analysis\sentiment_analysis_project"
 
 # streamlit run app.py
+
